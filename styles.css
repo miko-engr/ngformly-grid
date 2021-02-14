@@ -1,0 +1,12 @@
+/* Add application styles & imports to this file! */
+@import '~@angular/material/prebuilt-themes/deeppurple-amber.css';
+@import "~@ng-select/ng-select/themes/default.theme.css";
+@import "app/ag-grid.css";
+@import "app/theme-fresh.css";
+
+formly-form { display: block; }
+
+.my-form-div {
+  margin-bottom: 6px;
+  height: 42px;
+}
